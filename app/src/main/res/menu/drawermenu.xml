@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/db"
+        android:title="dashboard"
+        android:icon="@drawable/dasboard"/>
+    <item
+        android:id="@+id/event"
+        android:title="Event"
+        android:icon="@drawable/even"/>
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/search"/>
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/setting"/>
+    <item
+        android:id="@+id/activities"
+        android:title="Activities"
+        android:icon="@drawable/activities"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        android:icon="@drawable/exit"/>
+</menu>
